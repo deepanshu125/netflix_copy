@@ -7,11 +7,15 @@
   padding: 4rem 0;
   flex: 1;
   display: flex;
+  background-color: bisque;
   flex-direction: column;
   justify-content: center;
   align-items: center;
 }
-
+.SEARCHBAR{
+  background-color: bisque;
+  text-align-last: center;
+}
 .footer {
   display: flex;
   flex: 1;
